@@ -1,0 +1,2 @@
+attention_models/imdb/han_model_imdb filter=lfs diff=lfs merge=lfs -text
+attention_models/yelp/han_model_yelp filter=lfs diff=lfs merge=lfs -text
