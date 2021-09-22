@@ -1,0 +1,4 @@
+[submodule "Textattack"]
+	path = Textattack
+	url = https://github.com/RishabhMaheshwary/TextAttack.git
+	branch = query-attack
